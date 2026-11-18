@@ -1,1 +1,0 @@
-En el panel de datos se visualizan medidas complementarias a las cinco solicitadas en este checkpoint. Las mismas fueron desarrolladas como parte de la profundización analítica para la entrega final del proyecto:
